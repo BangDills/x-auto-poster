@@ -1,0 +1,23 @@
+# Secrets & session
+.env
+session.json
+
+# Database
+bot_data.db
+
+# Logs
+*.log
+
+# Screenshots / previews
+*.png
+
+# Media cache
+temp_media/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Cookies temp
+temp_cookies.txt
