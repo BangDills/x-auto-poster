@@ -2,6 +2,7 @@ import os
 import sys
 import time
 import re
+import json
 import urllib.parse
 import requests
 from playwright.sync_api import sync_playwright
